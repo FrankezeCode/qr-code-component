@@ -1,0 +1,29 @@
+body{
+    background-color: #c5cfd8;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+main{
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 320px;
+    min-height: 350px;
+    padding: 1rem;
+    border-radius: 1rem;
+    
+}
+ img{
+    width: 100%;
+    
+}
+footer{
+    position: fixed;
+    bottom: 0;
+}
